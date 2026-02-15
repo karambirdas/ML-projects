@@ -1,1 +1,2 @@
 # ML-projects
+This is the repository for only learning purposes. In 2026, You may already know that NLP is far better coding or fixing issues than humans. This repository contains codes that I wrote by hand to understand the main intuition and also to practice how a language like python works. Anyway, it is fun to write code and ask computer to do a specific task, it is like you are the master giving instruction.
